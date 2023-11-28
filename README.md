@@ -1,2 +1,4 @@
-# sap-enabled-electric-bikes-production-optimization
-A repository containing all files for a semester project I did with a colleague entitled "SAP-Enabled Electric Bikes Production Optimization" for the subject "Production and Operational Supply Management" supervised by 2 professors from INSAT.
+# SAP-Enabled Electric Bikes Production Optimization
+- Streamlined production processes and reduced cycle time by 11% through the implementation of SAP at an electric bike manufacturer.
+- Reduced inventory holding costs by 14% through optimized inventory management while maintaining high product availability.
+- Successfully managed Material Requirements Planning (MRP), leading to a significant increase in productivity by 29%.
